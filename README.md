@@ -1,6 +1,6 @@
 # micro-feature-flags
 
-> Deterministic and state-less feature flags
+> Minimalist service for deterministic and state-less feature flags
 
 micro-feature-flags uses deterministic hashing of `feature:id` to enable the safe rollout of features. You might use this to enable a new signup flow for a subset of users.
 
