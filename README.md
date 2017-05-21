@@ -1,4 +1,4 @@
-# micro-feature-flags
+# micro-feature-flags [![build status](http://img.shields.io/travis/timhudson/micro-feature-flags.svg?style=flat)](http://travis-ci.org/timhudson/micro-feature-flags)
 
 > Minimalist service for deterministic and state-less feature flags
 
