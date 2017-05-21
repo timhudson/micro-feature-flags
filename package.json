@@ -1,0 +1,20 @@
+{
+  "name": "micro-feature-flags",
+  "version": "1.0.0",
+  "description": "Deterministic and state-less feature flags",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro",
+    "dev": "nodemon --exec micro",
+    "test": "ava"
+  },
+  "dependencies": {
+    "farmhash": "^1.2.1",
+    "micro": "^7.3.3"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "nodemon": "^1.11.0"
+  }
+}
