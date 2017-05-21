@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "farmhash": "^1.2.1",
-    "micro": "^7.3.3"
+    "mem": "^1.1.0",
+    "micro": "^7.3.3",
+    "ms": "^2.0.0"
   },
   "devDependencies": {
     "ava": "^0.19.1",
